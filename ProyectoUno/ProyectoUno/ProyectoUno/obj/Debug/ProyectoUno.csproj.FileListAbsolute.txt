@@ -1,0 +1,14 @@
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\bin\Debug\ProyectoUno.exe.config
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\bin\Debug\ProyectoUno.exe
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\bin\Debug\ProyectoUno.pdb
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.csprojAssemblyReference.cache
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.frmPrincipal.resources
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.frmRegistro.resources
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.Properties.Resources.resources
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.csproj.GenerateResource.cache
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.csproj.CoreCompileInputs.cache
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.exe
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.pdb
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.frmJuego.resources
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.Cantidad.resources
+C:\Users\lvrs0\source\repos\ProyectoUno\ProyectoUno\obj\Debug\ProyectoUno.FrmPuntuaciones.resources
